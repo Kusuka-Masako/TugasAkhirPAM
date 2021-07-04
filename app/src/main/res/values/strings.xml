@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Katalog Laptop Gaming</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="hello">HOLA</string>
+    <string name="happybuying">Selamat berselancar dan berbelanja dengan aplikasi kami</string>
+    <string name="a">TopupGemingShop: Website top-up terbesar dan
+terpercaya di Indonesia</string>
+    <string name="b">Setiap bulannya, jutaan gamers menggunakan TopupGemingShop
+untuk melakukan pembelian kredit game dengan lancar, dan kredit permainan
+akan ditambahkan secara instan. Top-up Mobile Legends,
+Free Fire, Ragnarok M, dan berbagai game lainnya!</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
